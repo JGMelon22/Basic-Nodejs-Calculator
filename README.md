@@ -1,5 +1,6 @@
 # Uma calculadora bem simples feita com Javascript
-# Requirements:
+
+# Requisitos:
 - Node.js
 - prompt-sync (npm install prompt-sync)
 
